@@ -23,4 +23,7 @@ platform :ios do
   lane :tests do
     run_tests(scheme: "FastlaneTestTests")
   end
+  lane :example do
+    puts("this is my first 🚀 lane")
+  end
 end
