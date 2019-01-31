@@ -14,7 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("testing")
         print("another test")
-        print("configuration of Jenkins with webhook of github123")
     }
     
     
